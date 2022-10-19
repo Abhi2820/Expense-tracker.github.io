@@ -4,7 +4,7 @@ This is a practice project for web development
 
 
 
-__<a href=https://abhi2820.github.io/Expense-tracker.github.io/first.html target="_blank" title="EXPENSE TRACKER">WEBSITE HERE</a>__
+__<a href=https://abhi2820.github.io/Expense-tracker.github.io/first.html target="_blank" title="EXPENSE TRACKER">CLICK HERE </a> to view website__
 
 
 
